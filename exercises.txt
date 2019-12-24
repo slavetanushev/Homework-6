@@ -6,3 +6,9 @@ HTML Homework 4 Exercises
 
 
 Use CSS Classes in CSS. Use Font Awesome for Icons https://fontawesome.com/v4.7.0/
+
+
+voa code kladi go vo head 
+
+
+  <link href="/your-path-to-fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->

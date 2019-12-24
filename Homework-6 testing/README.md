@@ -1,1 +1,1 @@
-Just testing changing fonts on excercise 1
+Just testing changing fonts (icons) on excercise 1
